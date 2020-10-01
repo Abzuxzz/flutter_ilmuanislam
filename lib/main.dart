@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() => runApp(IlmuanIslam());
+// buat hacktober fest
 
 class IlmuanIslam extends StatelessWidget {
   @override
